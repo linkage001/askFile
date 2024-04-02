@@ -1,0 +1,11 @@
+output/*
+CVs/*
+scrap.txt
+results.txt
+output.csv
+.venv
+__pycache__
+.idea
+results.csv
+*.results*
+/results.csv
