@@ -1,4 +1,4 @@
-# CV Analysis Tool using Ooba API
+# CV Analysis Tool using Oobabooga API
 
 This repository contains a Python script that uses the Oobabooga API to analyze CVs (Curriculum Vitaes) and extract relevant information. The tool reads PDF files from a specified directory, processes their content, and saves the results in a CSV file.
 
